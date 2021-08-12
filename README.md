@@ -1,3 +1,2 @@
 # EXPRESS_CRUD_AUTH
-# EXPRESS_CRUD_AUTH
-# Express_CRUD_Auth_App
+## change the .env file and change the reciepients email in auth file 
